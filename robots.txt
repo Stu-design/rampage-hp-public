@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rampage-yushima.com/sitemap.xml
